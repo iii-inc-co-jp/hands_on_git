@@ -1,3 +1,5 @@
+"""This is a test program."""
+
 def func():
     print('    This is func() in test_module.py')
     print('    __name__ is', __name__)
